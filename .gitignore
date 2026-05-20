@@ -11,7 +11,7 @@ wheels/
 
 # Datos
 .data
-
+chroma_DB
 
 # Extra
 *.pdf
